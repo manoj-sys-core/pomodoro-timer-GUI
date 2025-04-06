@@ -61,7 +61,7 @@ window.config(pady=50,padx=100,bg=YELLOW)
 canvas = Canvas(width=500,height=500,bg=YELLOW, highlightthickness=0)
 image = PhotoImage(file="myimage.png")
 canvas.create_image(250 , 250,image=image)
-timer_text = canvas.create_text(250,230,text="00.00",fill="#5F8B4C",font=(FONT_NAME,60,"bold"))
+timer_text = canvas.create_text(250,230,text="00.00",fill="#5F8B4C",font=(FONT_NAME,50,"bold"))
 canvas.grid(column=2,row=2)
 
 timer_label = Label(text="Timer",font=(FONT_NAME,30),foreground="green",bg=YELLOW)
