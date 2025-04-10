@@ -31,7 +31,10 @@ This cycle boosts focus and reduces burnout.
 ## 📸 Preview
 
 <!-- You can add screenshots or gifs here -->
-![screenshot](assets/screenshot.png)
+<p align="center">
+  <img src="https://github.com/manoj-sys-core/pomodoro-timer-GUI/blob/main/assets/dashboard%20(2).png" width="700" alt="Password Manager GUI Screenshot"/>
+</p>
+
 
 ---
 
